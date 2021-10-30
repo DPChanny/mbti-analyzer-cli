@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MBTI_Analyze.iml" filepath="$PROJECT_DIR$/.idea/MBTI_Analyze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MBTIAnalyzerCMD.iml" filepath="$PROJECT_DIR$/.idea/MBTIAnalyzerCMD.iml" />
     </modules>
   </component>
 </project>
